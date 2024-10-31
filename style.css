@@ -7,6 +7,17 @@
     align-items: center;
 }
 
+.extra {
+  position: relative;
+  display: block;
+  color: transparent;
+  -webkit-text-stroke: 1px #fff;
+  font-size: 6.5em;
+  font-weight: 900;
+  text-decoration: none;
+  line-height: 1.2em;
+}
+
 a{
     text-decoration: none;
 }
